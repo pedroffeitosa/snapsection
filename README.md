@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository or download the source code.
 
     ```bash
-    git clone https://github.com/your-username/snapsection.git
+    git clone https://github.com/pedroffeitosa/snapsection.git
     cd snapsection
     ```
 
